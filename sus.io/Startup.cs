@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.AspNetCore.Routing.Patterns;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using sus.io.Data;
 
@@ -15,6 +17,14 @@ namespace sus.io
 {
     public class Startup
     {
+        
+        public IConfiguration Configuration { get; }
+
+        public Startup(IConfiguration configuration)
+        {
+            Configuration = configuration; 
+
+        }
         
         public void ConfigureServices(IServiceCollection services)
         {
@@ -27,7 +37,7 @@ namespace sus.io
             });
 
 
-            services.AddDbContext<MeuDBcontext>();
+            services.AddDbContext<MeuDBcontext>(optionsAction: options => options.UseSqlServer(Configuration.GetConnectionString(name:"MeuDBcontext")));
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
