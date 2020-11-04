@@ -1,0 +1,6 @@
+C:\Users\FTI-01\source\repos\sucesso\sucesso\obj\Debug\netcoreapp2.2\sucesso.csprojAssemblyReference.cache
+C:\Users\FTI-01\source\repos\sucesso\sucesso\obj\Debug\netcoreapp2.2\sucesso.AssemblyInfoInputs.cache
+C:\Users\FTI-01\source\repos\sucesso\sucesso\obj\Debug\netcoreapp2.2\sucesso.AssemblyInfo.cs
+C:\Users\FTI-01\source\repos\sucesso\sucesso\obj\Debug\netcoreapp2.2\sucesso.csproj.CoreCompileInputs.cache
+C:\Users\FTI-01\source\repos\sucesso\sucesso\obj\Debug\netcoreapp2.2\sucesso.RazorAssemblyInfo.cache
+C:\Users\FTI-01\source\repos\sucesso\sucesso\obj\Debug\netcoreapp2.2\sucesso.RazorAssemblyInfo.cs
