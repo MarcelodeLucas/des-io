@@ -33,3 +33,4 @@ C:\Users\FTI-01\source\repos\SUCESSO\sus.io\obj\Debug\netcoreapp2.2\Razor\Modulo
 C:\Users\FTI-01\source\repos\SUCESSO\sus.io\obj\Debug\netcoreapp2.2\Razor\Modulos\Produtos\Views\cadastro\Busca.cshtml.g.cs
 C:\Users\FTI-01\source\repos\SUCESSO\sus.io\obj\Debug\netcoreapp2.2\Razor\Modulos\Vendas\Views\Pedidos\Index.cshtml.g.cs
 C:\Users\FTI-01\source\repos\SUCESSO\sus.io\obj\Debug\netcoreapp2.2\Razor\Modulos\Vendas\Views\_ViewStart.cshtml.g.cs
+C:\Users\FTI-01\source\repos\sucesso\sus.io\obj\Debug\netcoreapp2.2\sus.io.csproj.CoreCompileInputs.cache

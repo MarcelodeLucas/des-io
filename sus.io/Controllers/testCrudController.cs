@@ -21,7 +21,7 @@ namespace sus.io.Controllers
 
         public IActionResult Index()
         {
-            var aluno = new aluno
+            var aluno = new aluno 
             {
                 Nome = "celo",
                 dataNascimento = DateTime.Now,

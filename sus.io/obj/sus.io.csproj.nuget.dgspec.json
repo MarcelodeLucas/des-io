@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FTI-01\\source\\repos\\SUCESSO\\sus.io\\sus.io.csproj": {}
+    "C:\\Users\\FTI-01\\source\\repos\\sucesso\\sus.io\\sus.io.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FTI-01\\source\\repos\\SUCESSO\\sus.io\\sus.io.csproj": {
+    "C:\\Users\\FTI-01\\source\\repos\\sucesso\\sus.io\\sus.io.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FTI-01\\source\\repos\\SUCESSO\\sus.io\\sus.io.csproj",
+        "projectUniqueName": "C:\\Users\\FTI-01\\source\\repos\\sucesso\\sus.io\\sus.io.csproj",
         "projectName": "sus.io",
-        "projectPath": "C:\\Users\\FTI-01\\source\\repos\\SUCESSO\\sus.io\\sus.io.csproj",
+        "projectPath": "C:\\Users\\FTI-01\\source\\repos\\sucesso\\sus.io\\sus.io.csproj",
         "packagesPath": "C:\\Users\\FTI-01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FTI-01\\source\\repos\\SUCESSO\\sus.io\\obj\\",
+        "outputPath": "C:\\Users\\FTI-01\\source\\repos\\sucesso\\sus.io\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
